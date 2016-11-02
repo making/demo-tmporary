@@ -4,3 +4,4 @@ pwd
 date
 touch foo.txt
 find .
+echo "Update"
